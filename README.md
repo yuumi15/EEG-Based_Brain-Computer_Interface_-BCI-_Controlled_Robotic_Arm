@@ -1,4 +1,4 @@
-# EEG-Based_Brain-Computer_Interface_-BCI-_Controlled_Robotic_Arm
+## EEG-Based Brain-Computer Interface (BCI) Controlled Robotic Arm
 
 #### This project addresses the critical challenge of enhancing independence and communication for individuals with severe motor impairments, particularly those suffering from conditions like Amyotrophic Lateral Sclerosis (ALS) or spinal cord injury. It presents two main parts: A novel Brain-Computer Interface (BCI)-controlled robotic arm system and a BCI-based virtual keyboard. (BSC. Graduation Project)
 
