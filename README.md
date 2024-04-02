@@ -2,6 +2,8 @@
 
 #### This project addresses the critical challenge of enhancing independence and communication for individuals with severe motor impairments, particularly those suffering from conditions like Amyotrophic Lateral Sclerosis (ALS) or spinal cord injury. It presents two main parts: A novel Brain-Computer Interface (BCI)-controlled robotic arm system and a BCI-based virtual keyboard. (BSC. Graduation Project)
 
+**Note:** The project was created in collaboration with 2 colleagues of mine over a one-year-long period.
+
 ##### Our Robotic Arm Showing Different Motion Execution
 ![Robotic Arm Executed Motions](https://imgur.com/enYOTtZ.png)
 ## Abstract
